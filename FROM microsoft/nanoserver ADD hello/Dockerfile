@@ -1,2 +1,2 @@
 FROM microsoft/nanoserver
-ADD hello /
+ADD hello.txt /
